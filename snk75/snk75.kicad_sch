@@ -738,7 +738,6 @@
     )
   )
 
-
   (junction (at 272.034 139.192) (diameter 0) (color 0 0 0 0)
     (uuid 028c9fa7-3bec-424b-999a-52f68d557f02)
   )
@@ -2049,259 +2048,259 @@
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/e8e85055-195d-47a7-920a-fca4bbe6efb6"
-      (reference "MX1") (unit 1) (value "Esc") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX1") (unit 1) (value "Esc") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/4be8a88e-4e96-457b-af6c-d828cc980b0b"
-      (reference "MX2") (unit 1) (value "@") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX2") (unit 1) (value "@") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/fce0d68c-019b-44d0-b7fb-4cd947a687ad"
-      (reference "MX3") (unit 1) (value "Tab_15") (footprint "MX_Only:MXOnly-1.5U")
+      (reference "MX3") (unit 1) (value "Tab_15") (footprint "MX_Only:MXOnly-1.5U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/4054182b-6252-405b-be74-e4514cdcf764"
-      (reference "MX4") (unit 1) (value "Caps_175") (footprint "MX_Only:MXOnly-1.75U")
+      (reference "MX4") (unit 1) (value "Caps_175") (footprint "MX_Only:MXOnly-1.75U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/2260e324-f4b4-4a62-932b-f7f23dd72e13"
-      (reference "MX5") (unit 1) (value "LShift_125") (footprint "MX_Only:MXOnly-1.25U")
+      (reference "MX5") (unit 1) (value "LShift_125") (footprint "MX_Only:MXOnly-1.25U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/513cd7db-66c7-4b0d-b07b-959396cbfdc8"
-      (reference "MX6") (unit 1) (value "Ctrl_125") (footprint "MX_Only:MXOnly-1.25U")
+      (reference "MX6") (unit 1) (value "Ctrl_125") (footprint "MX_Only:MXOnly-1.25U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/1c8ab0dd-36e5-4c86-b94f-1391b3fda9a6"
-      (reference "MX7") (unit 1) (value "F1") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX7") (unit 1) (value "F1") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/2484352e-224f-4802-b31c-f53b6b2a46e2"
-      (reference "MX8") (unit 1) (value "1") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX8") (unit 1) (value "1") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/655379bb-dba6-4a05-9680-614e311dad9b"
-      (reference "MX9") (unit 1) (value "A") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX9") (unit 1) (value "A") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/c3ae3e07-f29d-4b27-8e62-b81ca9326cb8"
-      (reference "MX10") (unit 1) (value "Q") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX10") (unit 1) (value "Q") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/f822f6e9-3840-4615-a321-fda1702dbd36"
-      (reference "MX11") (unit 1) (value ">") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX11") (unit 1) (value ">") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/256f31dc-80e2-44fa-8aa6-56c8d2223f03"
-      (reference "MX12") (unit 1) (value "L_Opt_125") (footprint "MX_Only:MXOnly-1.25U")
+      (reference "MX12") (unit 1) (value "L_Opt_125") (footprint "MX_Only:MXOnly-1.25U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/be93bfd5-fbd2-4dc0-8097-bc9c70d05257"
-      (reference "MX13") (unit 1) (value "F2") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX13") (unit 1) (value "F2") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/b1604012-1a43-43d8-8e30-75c09666ff24"
-      (reference "MX14") (unit 1) (value "2") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX14") (unit 1) (value "2") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/39df80b8-cb06-47b0-b1a5-420b35742a8c"
-      (reference "MX15") (unit 1) (value "Z") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX15") (unit 1) (value "Z") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/ad002a76-5676-4573-be15-f93d6a266b7a"
-      (reference "MX16") (unit 1) (value "S") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX16") (unit 1) (value "S") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/57320673-ec1e-4380-8211-9004b9c91ee3"
-      (reference "MX17") (unit 1) (value "W") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX17") (unit 1) (value "W") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/ae9e8f8c-5834-4e2b-a637-43e2d5845c6b"
-      (reference "MX18") (unit 1) (value "L_Cmd_125") (footprint "MX_Only:MXOnly-1.25U")
+      (reference "MX18") (unit 1) (value "L_Cmd_125") (footprint "MX_Only:MXOnly-1.25U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/52108f24-48b8-4dab-9989-8f5b77d7567e"
-      (reference "MX19") (unit 1) (value "F3") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX19") (unit 1) (value "F3") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/9ec75dd8-d4a2-410c-9b42-10dac8c941de"
-      (reference "MX20") (unit 1) (value "3") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX20") (unit 1) (value "3") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/c7cbf9a3-7e1a-4128-a785-1248faa6ef26"
-      (reference "MX21") (unit 1) (value "E") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX21") (unit 1) (value "E") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/581acfcc-1268-44a9-932b-51c772f076a1"
-      (reference "MX22") (unit 1) (value "D") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX22") (unit 1) (value "D") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/64536a92-505e-4b2f-9295-06b104c14231"
-      (reference "MX23") (unit 1) (value "X") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX23") (unit 1) (value "X") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/7e5e3044-8afa-4b13-bbf4-8a0c0f6ab613"
-      (reference "MX24") (unit 1) (value "F4") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX24") (unit 1) (value "F4") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/f7883d4a-c0e1-44c8-8949-764880ed2dc9"
-      (reference "MX25") (unit 1) (value "4") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX25") (unit 1) (value "4") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/9ca5595c-3047-4db5-ba9d-a76a1d87c6ed"
-      (reference "MX26") (unit 1) (value "R") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX26") (unit 1) (value "R") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/ba29288b-aee7-4e2b-b249-1a82ce2cb044"
-      (reference "MX27") (unit 1) (value "F") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX27") (unit 1) (value "F") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/f3b42620-27c9-42a1-ad8c-f952f263380d"
-      (reference "MX28") (unit 1) (value "C") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX28") (unit 1) (value "C") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/76967ea1-7030-4dce-824c-51fc01b04bc3"
-      (reference "MX29") (unit 1) (value "F5") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX29") (unit 1) (value "F5") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/07c23f7c-576d-4617-b7ee-288bcd65e955"
-      (reference "MX30") (unit 1) (value "5") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX30") (unit 1) (value "5") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/84042d83-61fe-48e8-8a0f-d2bde6ea24ef"
-      (reference "MX31") (unit 1) (value "T") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX31") (unit 1) (value "T") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/27d3ceb3-9f90-4205-87bf-17fd878301ee"
-      (reference "MX32") (unit 1) (value "G") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX32") (unit 1) (value "G") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/b253763d-73e1-4eb9-bec0-81de64f2bda5"
-      (reference "MX33") (unit 1) (value "V") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX33") (unit 1) (value "V") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/d3fd7500-0558-4e13-867d-afb209904010"
-      (reference "MX34") (unit 1) (value "F6") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX34") (unit 1) (value "F6") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/6ffec47c-d2bb-4177-acef-ae863da570cd"
-      (reference "MX35") (unit 1) (value "6") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX35") (unit 1) (value "6") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/6d870d3a-4af0-4765-ad8b-42b595f4c894"
-      (reference "MX36") (unit 1) (value "Y") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX36") (unit 1) (value "Y") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/4f530444-71cc-43ed-80c6-81f031e58e91"
-      (reference "MX37") (unit 1) (value "H") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX37") (unit 1) (value "H") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/3970bcb1-7338-4841-a801-fa3e9d477474"
-      (reference "MX38") (unit 1) (value "B") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX38") (unit 1) (value "B") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/ba4774cd-74de-41e6-a21c-5b2942a39b46"
-      (reference "MX39") (unit 1) (value "Space_625") (footprint "MX_Only:MXOnly-6.25U")
+      (reference "MX39") (unit 1) (value "Space_625") (footprint "MX_Only:MXOnly-6.25U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/b5636460-9685-426f-9921-1cd4d54ab46d"
-      (reference "MX40") (unit 1) (value "F7") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX40") (unit 1) (value "F7") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/4dff6e9b-36cb-46d2-9940-6542cc490693"
-      (reference "MX41") (unit 1) (value "7") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX41") (unit 1) (value "7") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/39bb5257-200b-43f2-8592-35ea3a9c32ef"
-      (reference "MX42") (unit 1) (value "U") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX42") (unit 1) (value "U") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/9163d691-6cad-418a-b713-4099e9083e17"
-      (reference "MX43") (unit 1) (value "J") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX43") (unit 1) (value "J") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/2ea27804-7920-4389-b4fc-b6ec8a6b90fa"
-      (reference "MX44") (unit 1) (value "N") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX44") (unit 1) (value "N") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/c55e4f18-c3f9-44d1-91eb-e3c2ed4945d4"
-      (reference "MX45") (unit 1) (value "F8") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX45") (unit 1) (value "F8") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/93bbfdca-20e9-4327-862a-b9c12e282485"
-      (reference "MX46") (unit 1) (value "8") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX46") (unit 1) (value "8") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/c3540db8-ef83-442a-b91c-b9a2f32261b0"
-      (reference "MX47") (unit 1) (value "I") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX47") (unit 1) (value "I") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/2632d627-c8e0-49e4-a819-00da42992b24"
-      (reference "MX48") (unit 1) (value "K") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX48") (unit 1) (value "K") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/5d4693d5-e3c3-4026-b45f-ae4fb48fc861"
-      (reference "MX49") (unit 1) (value "?") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX49") (unit 1) (value "?") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/8c8af1f9-4f2a-496e-ad77-a94c4ece4281"
-      (reference "MX50") (unit 1) (value "F9") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX50") (unit 1) (value "F9") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/5a3b985e-40a4-4190-8a21-2c979c7d361a"
-      (reference "MX51") (unit 1) (value "9") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX51") (unit 1) (value "9") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/2a9f4338-ebef-4798-90b4-c8dfd63ae5ba"
-      (reference "MX52") (unit 1) (value "O") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX52") (unit 1) (value "O") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/b25be226-d37f-470c-9ad8-7dd7e8c6cb23"
-      (reference "MX53") (unit 1) (value "L") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX53") (unit 1) (value "L") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/ba117d95-2c5c-4f53-93ed-63798d9f7fd9"
-      (reference "MX54") (unit 1) (value ".") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX54") (unit 1) (value ".") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/5d5ea53b-6a24-464f-8b18-77bbdfc1f5db"
-      (reference "MX55") (unit 1) (value "R_Cmd") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX55") (unit 1) (value "R_Cmd") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/f6661bfa-95f5-4ddd-bf95-c42900dd7490"
-      (reference "MX56") (unit 1) (value "F10") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX56") (unit 1) (value "F10") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/6cda6950-45df-4b10-bb90-8194c02dc732"
-      (reference "MX57") (unit 1) (value "0") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX57") (unit 1) (value "0") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/9884a08d-464f-4dd2-8536-8a913030bf88"
-      (reference "MX58") (unit 1) (value "P") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX58") (unit 1) (value "P") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/c4017396-1c13-46d0-833b-5de139f7c6ad"
-      (reference "MX59") (unit 1) (value "M") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX59") (unit 1) (value "M") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/40087f3f-371b-49ab-9238-3d68d83578dd"
-      (reference "MX60") (unit 1) (value "/") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX60") (unit 1) (value "/") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/7e1508c7-1e3d-4bce-8d9f-8b7b802064dc"
-      (reference "MX61") (unit 1) (value "FN") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX61") (unit 1) (value "FN") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/0bb0f00d-ee18-4ab7-a37a-760c23a74f34"
-      (reference "MX62") (unit 1) (value "F11") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX62") (unit 1) (value "F11") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/3932e668-677d-4f2b-a836-a8a046b75d71"
-      (reference "MX63") (unit 1) (value ")") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX63") (unit 1) (value ")") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/36cdce0b-05fc-4aef-a066-6ae2c603bf32"
-      (reference "MX64") (unit 1) (value "¨") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX64") (unit 1) (value "¨") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/4de1653e-e6c2-452b-8617-12476b52e26c"
-      (reference "MX65") (unit 1) (value "%") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX65") (unit 1) (value "%") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/d1d6d310-9308-41a9-8697-e46e31944345"
-      (reference "MX66") (unit 1) (value "+") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX66") (unit 1) (value "+") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/a7dfe5e5-fe9a-498f-bd76-d09f7c54f5b5"
-      (reference "MX67") (unit 1) (value "R_Opt") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX67") (unit 1) (value "R_Opt") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/a7a27ef9-0299-4d30-bc4a-9c526f4fef03"
-      (reference "MX68") (unit 1) (value "F12") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX68") (unit 1) (value "F12") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/334c6724-5d29-419a-bf35-3477f79d3c28"
-      (reference "MX69") (unit 1) (value "-") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX69") (unit 1) (value "-") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/68cdc08a-ae42-4aa2-ac73-79a2212ff850"
-      (reference "MX70") (unit 1) (value "*") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX70") (unit 1) (value "*") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/5ed42dae-92ff-47e5-b7d3-c5eca5530c50"
-      (reference "MX71") (unit 1) (value "£") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX71") (unit 1) (value "£") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/de884d38-9039-4ef6-b684-c4c53d35f229"
-      (reference "MX72") (unit 1) (value "RShift_175") (footprint "MX_Only:MXOnly-1.75U")
+      (reference "MX72") (unit 1) (value "RShift_175") (footprint "MX_Only:MXOnly-1.75U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/1335095d-8307-4cdd-a16c-6f6873819e9a"
-      (reference "MX73") (unit 1) (value "A_L") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX73") (unit 1) (value "A_L") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/9beaab2a-31a4-4d83-b8f9-c38ebef26e5e"
-      (reference "MX74") (unit 1) (value "F13") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX74") (unit 1) (value "F13") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/3a82f8ba-b34c-4ea5-8a91-dd3d30dfd4ca"
-      (reference "MX75") (unit 1) (value "BckSpc_2") (footprint "MX_Only:MXOnly-2U")
+      (reference "MX75") (unit 1) (value "BckSpc_2") (footprint "MX_Only:MXOnly-2U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/97b73a37-d535-46df-9924-dfa73db3e021"
       (reference "MX76") (unit 1) (value "Enter_ISO_125_2") (footprint "MX_Only:MXOnly-ISO")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/ebca8579-b106-436f-b8c2-3c5b49d12c52"
-      (reference "MX77") (unit 1) (value "A_UP") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX77") (unit 1) (value "A_UP") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/9afec300-ec4e-4c02-939c-23cb8b2e6e70"
-      (reference "MX78") (unit 1) (value "A_DWN") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX78") (unit 1) (value "A_DWN") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/507fa838-d0a6-4899-9d52-28bce7a50a23"
-      (reference "MX79") (unit 1) (value "F14") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX79") (unit 1) (value "F14") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/5bfe1427-acf7-4c6d-8c4d-d1cca46ae19f"
-      (reference "MX80") (unit 1) (value "Home") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX80") (unit 1) (value "Home") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/65b6dd5b-5f83-44b2-a50c-4e14d2a16142"
-      (reference "MX81") (unit 1) (value "PgUp") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX81") (unit 1) (value "PgUp") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/3a59ac15-1857-478e-a569-a1e86dc41e95"
-      (reference "MX82") (unit 1) (value "PgDown") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX82") (unit 1) (value "PgDown") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/284d7b13-0081-4e31-b8f6-7a7165323c40"
-      (reference "MX83") (unit 1) (value "End") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX83") (unit 1) (value "End") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/fa710022-1099-4457-8b2a-659db0b869f0"
-      (reference "MX84") (unit 1) (value "A_R") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX84") (unit 1) (value "A_R") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/96e1ee2c-1803-4686-9117-19b813cee6d4"
-      (reference "MX85") (unit 1) (value "F15") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX85") (unit 1) (value "F15") (footprint "MX_Only:MXOnly-1U-FLIPPED")
     )
     (path "/47b87260-35b6-4f43-a04c-bef0a2919b89"
       (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
