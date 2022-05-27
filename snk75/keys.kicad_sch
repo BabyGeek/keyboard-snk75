@@ -7652,7 +7652,7 @@
     (property "Reference" "MX?" (id 0) (at 166.624 126.238 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "Space" (id 1) (at 170.942 121.92 0)
+    (property "Value" "Space_625" (id 1) (at 170.942 121.92 0)
       (effects (font (size 2.5 2.5)))
     )
     (property "Footprint" "MX_Only:MXOnly-1U" (id 2) (at 155.829 127.635 0)

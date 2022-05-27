@@ -2264,7 +2264,7 @@
       (reference "MX?") (unit 1) (value "F") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/ba4774cd-74de-41e6-a21c-5b2942a39b46"
-      (reference "MX?") (unit 1) (value "Space") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX?") (unit 1) (value "Space_625") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/c3540db8-ef83-442a-b91c-b9a2f32261b0"
       (reference "MX?") (unit 1) (value "I") (footprint "MX_Only:MXOnly-1U")
