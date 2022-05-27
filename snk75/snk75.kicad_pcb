@@ -8079,7 +8079,7 @@
 
   (footprint "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G" (layer "B.Cu")
     (tedit 5CF432E0) (tstamp 8dca942a-f5f6-4935-b0ca-325f4df32116)
-    (at 151.075 185.3375 180)
+    (at 12.55 27.5 180)
     (descr "http://www.palpilot.com/wp-content/uploads/2017/05/UTC027-GKN-OR-Rev-A.pdf")
     (tags "USB C Type-C Receptacle USB2.0")
     (property "Sheetfile" "snk75.kicad_sch")
