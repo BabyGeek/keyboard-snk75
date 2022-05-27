@@ -2102,13 +2102,13 @@
       (reference "MX?") (unit 1) (value "A_L") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/2260e324-f4b4-4a62-932b-f7f23dd72e13"
-      (reference "MX?") (unit 1) (value "LShift") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX?") (unit 1) (value "LShift_125") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/2484352e-224f-4802-b31c-f53b6b2a46e2"
       (reference "MX?") (unit 1) (value "1") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/256f31dc-80e2-44fa-8aa6-56c8d2223f03"
-      (reference "MX?") (unit 1) (value "L_Opt") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX?") (unit 1) (value "L_Opt_125") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/2632d627-c8e0-49e4-a819-00da42992b24"
       (reference "MX?") (unit 1) (value "K") (footprint "MX_Only:MXOnly-1U")
@@ -2147,13 +2147,13 @@
       (reference "MX?") (unit 1) (value "PgDown") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/3a82f8ba-b34c-4ea5-8a91-dd3d30dfd4ca"
-      (reference "MX?") (unit 1) (value "BckSpc") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX?") (unit 1) (value "BckSpc_2") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/40087f3f-371b-49ab-9238-3d68d83578dd"
       (reference "MX?") (unit 1) (value "/") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/4054182b-6252-405b-be74-e4514cdcf764"
-      (reference "MX?") (unit 1) (value "Caps") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX?") (unit 1) (value "Caps_175") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/4be8a88e-4e96-457b-af6c-d828cc980b0b"
       (reference "MX?") (unit 1) (value "@") (footprint "MX_Only:MXOnly-1U")
@@ -2168,7 +2168,7 @@
       (reference "MX?") (unit 1) (value "H") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/513cd7db-66c7-4b0d-b07b-959396cbfdc8"
-      (reference "MX?") (unit 1) (value "Ctrl") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX?") (unit 1) (value "Ctrl_125") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/57320673-ec1e-4380-8211-9004b9c91ee3"
       (reference "MX?") (unit 1) (value "W") (footprint "MX_Only:MXOnly-1U")
@@ -2225,7 +2225,7 @@
       (reference "MX?") (unit 1) (value "8") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/97b73a37-d535-46df-9924-dfa73db3e021"
-      (reference "MX?") (unit 1) (value "Enter") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX?") (unit 1) (value "Enter_ISO_125_2") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/9884a08d-464f-4dd2-8536-8a913030bf88"
       (reference "MX?") (unit 1) (value "P") (footprint "MX_Only:MXOnly-1U")
@@ -2246,7 +2246,7 @@
       (reference "MX?") (unit 1) (value "S") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/ae9e8f8c-5834-4e2b-a637-43e2d5845c6b"
-      (reference "MX?") (unit 1) (value "L_Cmd") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX?") (unit 1) (value "L_Cmd_125") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/b1604012-1a43-43d8-8e30-75c09666ff24"
       (reference "MX?") (unit 1) (value "2") (footprint "MX_Only:MXOnly-1U")
@@ -2282,7 +2282,7 @@
       (reference "MX?") (unit 1) (value "+") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/de884d38-9039-4ef6-b684-c4c53d35f229"
-      (reference "MX?") (unit 1) (value "RShift") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX?") (unit 1) (value "RShift_175") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/ebca8579-b106-436f-b8c2-3c5b49d12c52"
       (reference "MX?") (unit 1) (value "A_UP") (footprint "MX_Only:MXOnly-1U")
@@ -2300,7 +2300,7 @@
       (reference "MX?") (unit 1) (value "A_R") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/c1f71097-7341-4999-8f50-9da129910967/fce0d68c-019b-44d0-b7fb-4cd947a687ad"
-      (reference "MX?") (unit 1) (value "Tab") (footprint "MX_Only:MXOnly-1U")
+      (reference "MX?") (unit 1) (value "Tab_15") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/47b87260-35b6-4f43-a04c-bef0a2919b89"
       (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
