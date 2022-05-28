@@ -4,7 +4,7 @@ V1 prototype in progress
 
 ----
 
-The name "Snk<sup>75</sup>" come from my online name MrSnkiiKyz and 75 because it is a 75% layout
+The name "SnK<sup>75</sup>" come from my online name MrSnkiiKyz and 75 because it is a 75% layout
 
 
 ### Pictures will go there when V1 prototype will be done

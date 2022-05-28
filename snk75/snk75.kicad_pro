@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.2,
-          "width": 0.9
+          "height": 2.4,
+          "width": 3.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -458,6 +458,10 @@
     [
       "c1f71097-7341-4999-8f50-9da129910967",
       "Keys"
+    ],
+    [
+      "a973ea33-dd51-45c1-98d5-d776a2d99208",
+      "RGB Underglow"
     ]
   ],
   "text_variables": {}
