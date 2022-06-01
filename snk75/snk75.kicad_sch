@@ -293,13 +293,13 @@
       (reference "C18") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
     )
     (path "/3767989a-718a-4522-9cfd-af2fba36ecbf/a1df1d08-5d92-4e62-ac02-92d68fb1c2b8"
-      (reference "C19") (unit 1) (value "100uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B")
+      (reference "C19") (unit 1) (value "100uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/3767989a-718a-4522-9cfd-af2fba36ecbf/aff84da6-8727-4d05-b4f3-8c1b394e28d7"
-      (reference "C20") (unit 1) (value "100uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B")
+      (reference "C20") (unit 1) (value "100uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/3767989a-718a-4522-9cfd-af2fba36ecbf/8028f74d-a28a-4d71-88bf-80aca0f71cf3"
-      (reference "C21") (unit 1) (value "10uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A")
+      (reference "C21") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/3767989a-718a-4522-9cfd-af2fba36ecbf/d6a83182-ff9d-4521-bf68-a09713cceaef"
       (reference "C22") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
