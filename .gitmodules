@@ -7,3 +7,6 @@
 [submodule "AlexandriaLibrary"]
 	path = AlexandriaLibrary
 	url = git@github.com:AcheronProject/AlexandriaLibrary.git
+[submodule "snk75/snk75/keyswitch-kicad-library"]
+	path = snk75/snk75/keyswitch-kicad-library
+	url = git@github.com:perigoso/keyswitch-kicad-library.git
