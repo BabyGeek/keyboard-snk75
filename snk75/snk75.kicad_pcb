@@ -468,7 +468,7 @@
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
     (tedit 5AC9901D) (tstamp 0ca7b163-02e0-41d2-9a8d-7b5e6004b5ef)
-    (at 61.5 38)
+    (at 61.500004 38)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/c1f71097-7341-4999-8f50-9da129910967/52108f24-48b8-4dab-9989-8f5b77d7567e")
@@ -504,6 +504,11 @@
       (net 145 "Net-(MX19-Pad3)") (pinfunction "LED") (pintype "input") (tstamp cb0b2bb6-2517-433e-97de-17de3fbb2e1a))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp bb288705-8f5e-4df7-8695-103493504517))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
@@ -708,7 +713,7 @@
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
     (tedit 5AC9901D) (tstamp 1aa70ac4-d645-4262-9338-d8b57f086c2a)
-    (at 137.83185 38.114105)
+    (at 137.831855 38.114097)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/c1f71097-7341-4999-8f50-9da129910967/b5636460-9685-426f-9921-1cd4d54ab46d")
@@ -744,6 +749,11 @@
       (net 170 "Net-(MX40-Pad3)") (pinfunction "LED") (pintype "input") (tstamp 4a48cad2-2e06-496e-979d-5002b02b752f))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp 339e2d46-b7e4-4d91-8947-127866802419))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
@@ -1228,6 +1238,11 @@
       (net 196 "Net-(MX62-Pad3)") (pinfunction "LED") (pintype "input") (tstamp 0129b715-811b-49ae-86e8-84cc66d3d575))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp fe3d61c7-35bb-4dc2-a349-513be6769c1c))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
@@ -1388,6 +1403,11 @@
       (net 224 "Net-(MX85-Pad3)") (pinfunction "LED") (pintype "input") (tstamp 3fc6c714-f008-4f45-ab09-5d2490ea3303))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp 1ea8ae27-5cc1-47a7-86d2-513cdd4bb2b6))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
@@ -1838,6 +1858,11 @@
       (net 151 "Net-(MX24-Pad3)") (pinfunction "LED") (pintype "input") (tstamp 412556e5-5147-4a19-9be4-959af589b37b))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp 813c21a8-9e45-49c0-b2a2-0371f3985fb6))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1.25U" (layer "F.Cu")
@@ -1918,6 +1943,11 @@
       (net 210 "Net-(MX74-Pad3)") (pinfunction "LED") (pintype "input") (tstamp be1c58ac-0b1e-401f-bbea-6f740bd77d97))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp 2ec066ab-99b4-4efc-a709-75d2c0d26afb))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
@@ -1998,6 +2028,11 @@
       (net 182 "Net-(MX50-Pad3)") (pinfunction "LED") (pintype "input") (tstamp bcefa607-9975-4b49-818c-af04c9059c57))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp 671d462c-9bbe-4862-b339-76f4eec6507d))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
@@ -2038,6 +2073,11 @@
       (net 138 "Net-(MX13-Pad3)") (pinfunction "LED") (pintype "input") (tstamp c9239d4e-58e7-4e49-a426-b4564a743b07))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp f20a88c6-513d-496a-892a-25fe899114cb))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
@@ -2438,6 +2478,11 @@
       (net 163 "Net-(MX34-Pad3)") (pinfunction "LED") (pintype "input") (tstamp 45163620-d5b2-4bc7-923f-570c7bb26602))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp 752942fe-83fd-4c31-97c0-c3e216934d14))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
@@ -2798,6 +2843,11 @@
       (net 189 "Net-(MX56-Pad3)") (pinfunction "LED") (pintype "input") (tstamp 697aa200-4289-4c3b-bfb1-fb772e0738e0))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp ab1e8b11-1c00-436e-9e92-ec60f921c74e))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
@@ -2882,7 +2932,7 @@
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
     (tedit 5AC9901D) (tstamp c19c9bda-a76c-44ab-8cf1-33da223df334)
-    (at 156.910137 38.100001)
+    (at 156.910126 38.1)
     (property "Sheetfile" "keys.kicad_sch")
     (property "Sheetname" "Keys")
     (path "/c1f71097-7341-4999-8f50-9da129910967/c55e4f18-c3f9-44d1-91eb-e3c2ed4945d4")
@@ -2918,6 +2968,11 @@
       (net 176 "Net-(MX45-Pad3)") (pinfunction "LED") (pintype "input") (tstamp f7926536-0767-458d-94be-701aa0fd5eff))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp 46435613-752d-4a24-b775-6dc5a3ba9260))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
@@ -3038,6 +3093,11 @@
       (net 216 "Net-(MX79-Pad3)") (pinfunction "LED") (pintype "input") (tstamp f6981a47-e068-4b4e-9fab-496799bdb517))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp b4ff84c9-c58e-42ba-a870-ef5c79ed1a46))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
@@ -3398,6 +3458,11 @@
       (net 203 "Net-(MX68-Pad3)") (pinfunction "LED") (pintype "input") (tstamp f20169cc-6557-4d7c-a70b-d64353183eed))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp a7fd31be-a61d-4758-9a59-a173261f4dec))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
@@ -3518,6 +3583,11 @@
       (net 124 "Net-(MX1-Pad3)") (pinfunction "LED") (pintype "input") (tstamp aba7cf6a-58ab-41a7-bff3-6c01f2ca9fe4))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp a8b16533-854a-472e-9b85-072a19cd2d2f))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
@@ -3558,6 +3628,11 @@
       (net 131 "Net-(MX7-Pad3)") (pinfunction "LED") (pintype "input") (tstamp 14ff38fb-f964-4543-814b-0f97f2015513))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp 8a111d65-785e-426c-a9e9-3e74dceddb13))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
@@ -3718,6 +3793,11 @@
       (net 157 "Net-(MX29-Pad3)") (pinfunction "LED") (pintype "input") (tstamp 5d07cea5-4b57-4aa7-ae1f-3b7bc5d5850b))
     (pad "4" thru_hole rect locked (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu "B.Mask")
       (net 2 "+5V") (pinfunction "LEDGND") (pintype "passive") (tstamp b69a1f65-f06a-4cd5-a804-79642757d699))
+    (model "/Users/mrsniikyz/Downloads/machanical-keyboard-keys-mx-key-switches-mx-1/MX .STEP"
+      (offset (xyz 7.366 7.3152 5.207))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 0))
+    )
   )
 
   (footprint "MX_Only:MXOnly-1U" (layer "F.Cu")
