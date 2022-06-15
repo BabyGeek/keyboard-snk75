@@ -1,25 +1,25 @@
-"Source:","/Users/mrsniikyz/Documents/Keyboard/keyboard-snk75/snk75/snk75.kicad_sch"
-"Date:","2022 May 26, Thursday 23:06:53"
-"Tool:","Eeschema (6.0.5-0)"
-"Generator:","/Applications/KiCad/KiCad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value_with_fp.py"
-"Component Count:","35"
-"Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor"
-"1uF1, ","1","C?","C_Small","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","Unpolarized capacitor, small symbol",""
-"C1, ","1","10uF","C_Small","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","Unpolarized capacitor, small symbol",""
-"C2, C3, C4, ","3","100n","C_Small","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","Unpolarized capacitor, small symbol",""
-"C5, C6, ","2","22pF","C_Small","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","Unpolarized capacitor, small symbol",""
-"C7, ","1","1u","C_Small","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","Unpolarized capacitor, small symbol",""
-"D1, D2, D3, D4, D5, D6, D7, D8, ","8","1N14148W","D_Small","Diode_SMD:D_SOD-123","Diode, small symbol",""
-"J1, ","1","USB_C_Receptacle_USB2.0","USB_C_Receptacle_USB2.0","acheron_Connectors:USB_C_Receptacle_Wurth_Elektronik_632723x00011","USB 2.0-only Type-C Receptacle connector",""
-"MX1, MX2, ","2","MX-LED","MX-LED","MX_Only:MXOnly-1U","",""
-"MX3, ","1","MX-LED","MX-LED","MX_Alps_Hybrid:MX-1U-FLIPPED","",""
-"MX4, ","1","MX-LED","MX-LED","MX_Alps_Hybrid:MX-1U","",""
-"R1, ","1","330","R_Small","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","Resistor, small symbol",""
-"R2, ","1","10k","R_Small","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","Resistor, small symbol",""
-"R3, R4, ","2","22R","R_Small","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","Resistor, small symbol",""
-"R5, R6, ","2","5.1k","R_Small","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","Resistor, small symbol",""
-"R7, ","1","1k","R_Small","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","Resistor, small symbol",""
-"SW1, SW2, SW3, SW4, ","4","MXSwitch","MXSwitch","acheron_MXA:MXA100","",""
-"SWP1, ","1","SW_Push","SW_Push","Button_Switch_SMD:SW_MEC_5GSH9","Push button switch, generic, two pins",""
-"U1, ","1","ATmega32U4-AU","ATmega32U4-A","Package_QFP:TQFP-44_10x10mm_P0.8mm","16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44",""
-"Y1, ","1","16MHZ","Crystal_Small","Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering","Two pin crystal, small symbol",""
+Comment,Designator,Footprint,LCSC Part #
+"100nF Unpolarized capacitor, small symbol","C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C24,C26,C27,C28,C29",C_0402_1005Metric,C1525
+"100nF Unpolarized capacitor, small symbol",C18,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,C1525
+"1uF Unpolarized capacitor, small symbol",C25,C_0402_1005Metric,C52923
+"4.7uF Unpolarized capacitor, small symbol",C30,C_0402_1005Metric,C23733
+1uF Unpolarized capacitor,"C31,C34",C_0805_2012Metric,C215803
+"10nF Unpolarized capacitor, small symbol",C33,C_0402_1005Metric,C15195
+"1N4148W Diode, small symbol","D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D78,D79,D80,D81,D82,D83,D84,D85",D_SOD-123,C81598
+"WS2812C-2020 Intelligent control RGB LED integrated light source, 3.5x3.5mm package","D86,D87,D88,D89,D90,D91,D92,D93,D94,D95,D96,D97,D98,D99,D100,D101",LED_WS2812_2020,C965556
+B5819W-SL Schottky diode,D102,D_SOD-123,C8598
+nSMD100-16V Fuse,F1,Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,C70082
+"GZ2012D601TF Ferrite bead, small symbol",FB1,L_0805_2012Metric,C1017
+TYPE-C-31-M12 16-pin USB type C (USB 2.0) connector,J1,TYPE-C-31-M-12,C165948
+"AO3400A N-MOSFET transistor, gate/source/drain",Q1,SOT-23,C347475
+"680R Resistor, small symbol","R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R66,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78,R79,R80,R81,R82,R83,R84,R85",R_0402_1005Metric,C433827
+"5.1R Resistor, small symbol","R86,R87,R88,R89,R90,R91,R92,R93,R94,R95,R96,R97,R98,R99,R100,R101",R_0402_1005Metric,C25165
+"5.1k Resistor, small symbol","R104,R105",R_0402_1005Metric,C25905
+"10k Resistor, small symbol","R106,R108",R_0402_1005Metric,C269701
+"100R Resistor, small symbol",R107,R_0402_1005Metric,C25076
+100k Resistor,"R109,R110",R_0402_1005Metric,C149504
+"SW_Push_RST Push button switch, generic, two pins",SWP1,SW_SPST_SKQG_WithStem,C318886
+"SW_Push_BOOT Push button switch, generic, two pins",SWP2,SW_SPST_SKQG_WithStem,C318886
+"STM32F072C8Tx ARM Cortex-M0 MCU, 64KB flash, 16KB RAM, 48MHz, 2-3.6V, 37 GPIO, LQFP-48",U1,LQFP-48_7x7mm_P0.5mm,C80488
+"USBLC6-2SC6 Very low capacitance ESD protection diode, 2 data-line, SOT-23-6",U3,SOT-23-6_Handsoldering,C7519
+"SGM2007-3.3XN5/TR 300mA, Low Power, Low Dropout Linear Regulators",U4,SOT-23-5_HandSoldering,C193687
